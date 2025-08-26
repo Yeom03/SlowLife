@@ -1,0 +1,11 @@
+name = "SlowLife"
+author = "Yeom03"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+
+[versions]
+minecraft = "1.21.6"
+neoforge = "21.6.20-beta"

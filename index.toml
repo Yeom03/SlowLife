@@ -1,0 +1,3 @@
+hash-format = "sha256"
+
+# 여기에는 [[files]] 항목들이 추가됨 (packwiz refresh 후 자동 관리)

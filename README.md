@@ -1,2 +1,0 @@
-# SlowLife
-SlowLife.exe
