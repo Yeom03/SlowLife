@@ -5,7 +5,7 @@
   <jar>C:\Users\eve02\Downloads\SlowLife.jar</jar>
   <outfile>C:\Users\eve02\Downloads\SlowLife.exe</outfile>
   <errTitle></errTitle>
-  <cmdLine></cmdLine>
+  <cmdLine>https://yeom03.github.io/SlowLife/pack.toml</cmdLine>
   <chdir>.</chdir>
   <priority>normal</priority>
   <downloadUrl></downloadUrl>

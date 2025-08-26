@@ -8,5 +8,5 @@ if errorlevel 1 (
 )
 
 rem JAR 방식 테스트용 (나중에 EXE로 대체 가능)
-java -jar "%~dp0..\SlowLife.jar" %URL%
+java -jar "%~dp0..\SlowLife.jar" https://yeom03.github.io/SlowLife/pack.toml
 pause
