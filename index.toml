@@ -2108,8 +2108,3 @@ metafile = true
 file = "shaderpacks/noble-shaders.pw.toml"
 hash = "d3e4cbd77200f125cb17c803e90673933cc9e4508303dd4c6b1feec0760ae7ca"
 metafile = true
-
-[[files]]
-file = "shaderpacks/solas-shader.pw.toml"
-hash = "7b6564ffa9ddc510af5479b593a1db26851e8d331229ea6a59f50f777c24b08b"
-metafile = true
