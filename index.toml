@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d505fb45d3e23e725be1a8b0f13da71a3399eb32ec098397fbbc9dc465d096af"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1251,7 +1255,7 @@ hash = "7d799fcabae8428b7953161aa1ed1377028dee945b5d720dd4e1baa28ac82a01"
 
 [[files]]
 file = "options.txt"
-hash = "9B4C25DF12B1006ABF82B7F8158984618222A9D0BF6311F38D02165D0901B205"
+hash = "9b4c25df12b1006abf82b7f8158984618222a9d0bf6311f38d02165d0901b205"
 
 [[files]]
 file = "resourcepacks/ConcorpWings_MC1.21.x.zip"
@@ -1464,3 +1468,7 @@ metafile = true
 file = "shaderpacks/noble-shaders.pw.toml"
 hash = "d3e4cbd77200f125cb17c803e90673933cc9e4508303dd4c6b1feec0760ae7ca"
 metafile = true
+
+[[files]]
+file = "tmp-index.toml"
+hash = "59e24b0ff1b4efae1a59972d1298ea8c38fc0f01866f7ff3de4793ef47311815"
