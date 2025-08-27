@@ -1313,6 +1313,30 @@ file = "launcher/SlowLife.xml"
 hash = "fb3e3b1cc6f3ce809eefddbc8dca3bbabf3936a3dd420ff90d4b360476c557da"
 
 [[files]]
+file = "mods/DnT-end-castle-standalone-v1.3.4 [NeoForge].jar"
+hash = "37c82bb4321f0c9cea16bb36f9eaa15ef112cf328d9ad16f989e0430a6a24ba0"
+
+[[files]]
+file = "mods/DnT-nether-fortress-overhaul-v3 [NeoForge].jar"
+hash = "2b19e21270243b10dbac44b352d4ea1cb4c5f61d3e10a0c482ef69fa3e9950db"
+
+[[files]]
+file = "mods/DnT-ocean-monument-overhaul-v2 [NeoForge].jar"
+hash = "0e200da50e4ac12153a55fd844ebf2ee205f4cffa37dfd23b41c0ea6c662860a"
+
+[[files]]
+file = "mods/Structory_1.21.x_v1.3.11.jar"
+hash = "b6eb648a78583a4d6506aa8cd80e9311fd6784cae7c7f7a1fb7adf38db6d50fa"
+
+[[files]]
+file = "mods/Structory_Towers_1.21.x_v1.0.13.jar"
+hash = "3c5bfb3c0d27b6079e73d6b686c1ad16b0f52b13bd9084a8f3bab4d524495a13"
+
+[[files]]
+file = "mods/SubtleEffects-neoforge-1.21.6-1.12.1.jar"
+hash = "10f73d909a69425a5f1c35435cbc43f4731634dcee1602c5c297823e36d7213b"
+
+[[files]]
 file = "mods/Xaeros_Minimap_25.2.8_NeoForge_1.21.6.jar"
 hash = "aa4e7f22e4462141081811ba81433ca4c838eb11b518600fb2a9cfeca8f2016f"
 
@@ -1432,6 +1456,10 @@ hash = "fcc218f5ae5c7e9c79a8ce2f3cac9afab6606c2c0047fd54caf32937c63e5e0c"
 metafile = true
 
 [[files]]
+file = "mods/dnt-desert-temple-overhaul-v2 [NeoForge].jar"
+hash = "442a37fa13a3e2a8793730550269537c4dc80ff9a7e2b6fec17874abbd105bf4"
+
+[[files]]
 file = "mods/dnt-desert-temple-overhaul.pw.toml"
 hash = "f7edae2a06c878376547594d812299cb9071f58c870f8932de092a7eb5c8efc5"
 metafile = true
@@ -1440,6 +1468,10 @@ metafile = true
 file = "mods/dnt-end-castle-standalone.pw.toml"
 hash = "d7f8d491d46694bad1b12e10bb66b10eeb627404d5ce2a630067914d1b80a018"
 metafile = true
+
+[[files]]
+file = "mods/dnt-jungle-temple-overhaul-v2 [NeoForge].jar"
+hash = "dad55b2ae5fab6aab70a88c92c936a63a09131d9a6943456f92ebb237c7bbd8c"
 
 [[files]]
 file = "mods/dnt-jungle-temple-overhaul.pw.toml"
@@ -1507,9 +1539,8 @@ hash = "2728d8eb6fced8220aaebafacfdef1ebca454657fbb215cc46d80442efd25dab"
 metafile = true
 
 [[files]]
-file = "mods/explosion-breaks-no-block.pw.toml"
-hash = "ddd87b09909e186afc5a523fceb13c2d5e2bd947f7ece113880744ef84ec17a4"
-metafile = true
+file = "mods/explosionbreaksnoblock-neoforge-1.21.3-0.3.0.jar"
+hash = "f386e71540bcdc8a75e920279e21a454a0cf5fe49291496a65fc558f6a68377d"
 
 [[files]]
 file = "mods/fancymenu.pw.toml"
@@ -1552,9 +1583,8 @@ hash = "fd0a1973cfb795272f5a0a8635639f0dd8aba2674ad218b81df1057c4c3026c7"
 metafile = true
 
 [[files]]
-file = "mods/inventive-inventory.pw.toml"
-hash = "3505019968303db2fba58de3dd5ecd70bc06105af2243ab44b47b5fb74a26886"
-metafile = true
+file = "mods/inventive_inventory-1.0.0.jar"
+hash = "47a7e6b7afc7e69926a160ba0bca1144ca0c23e5c049c34e22b6e43a8978f66c"
 
 [[files]]
 file = "mods/inventory-essentials.pw.toml"
@@ -1592,9 +1622,8 @@ hash = "a7dfd5ae6d064961de70ee1a45957f00ba8dc73e772e3bd12f4f9f5633540554"
 metafile = true
 
 [[files]]
-file = "mods/korean-patch-fabric.pw.toml"
-hash = "f563cd0f94f4aab010febc97c6a7d677e4e24e8cfe460394d84e53646f7630b5"
-metafile = true
+file = "mods/koreanpatch-neoforge-1.9.0+mc1.21.6.jar"
+hash = "5a4e4a578bfb5931feda375875f03defeeb2b4f6c695165bd875c6063b59cde9"
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
@@ -1602,9 +1631,8 @@ hash = "8fb821696362916090187ec37c353f7fd6da70e83c0b493ec3d6e669934febb2"
 metafile = true
 
 [[files]]
-file = "mods/krypton-fnp.pw.toml"
-hash = "71c868453e45a389a6e9d6540de49df93caf0f360675a66cd9b3448b9f32594c"
-metafile = true
+file = "mods/krypton_fnp-neoforge-1.21.5-0.2.22.jar"
+hash = "fdb70a978680fdfc22a908b80d91f3c1ae6705de5afd9732f9cd5af327544a2f"
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
@@ -1617,9 +1645,8 @@ hash = "4c7caf1fff89ff08a141004c680ecb2692f1c3770f7cb8c0550dbfd19aabd3de"
 metafile = true
 
 [[files]]
-file = "mods/ly-clumps.pw.toml"
-hash = "67c5958892ad7baf4be3e97b5131c8b1cd1c0de747e8dee79996d6d351530330"
-metafile = true
+file = "mods/ly-clumps-v1.1.0.jar"
+hash = "4a463ba0f290dd0de56009038d54cd1b8a5af5a92f87b052b14b4b897470ea8a"
 
 [[files]]
 file = "mods/macaws-paintings.pw.toml"
@@ -1751,9 +1778,8 @@ hash = "0882f42306355fb073d42950f0c467590726b4dcdce4858d4de553b189f90b95"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "dbe61567c09590030f7479d13cdfa402a452c50b94df6148db032fcafb248aab"
-metafile = true
+file = "mods/skinlayers3d-neoforge-1.8.2-mc1.21.6.jar"
+hash = "e18a7c4bddf09838a3cc10823bc76571daecd7cf759a457ef36684c75056a992"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -1776,21 +1802,6 @@ hash = "da97fe1c835cfdb5938ce66047be68d9c7e8dca835d6ac6e5de8642249e21293"
 metafile = true
 
 [[files]]
-file = "mods/structory-towers.pw.toml"
-hash = "27cb7f620013f352abc153571992b5ae6e75f4a6b94844d36f8361d27d360f5c"
-metafile = true
-
-[[files]]
-file = "mods/structory.pw.toml"
-hash = "6a0e155d047f7a40d1c84dde5f26bd9aab6544fa46fc94ef6d59d41f653f83b9"
-metafile = true
-
-[[files]]
-file = "mods/subtle-effects.pw.toml"
-hash = "17c5f3523049edff4dd0e5cf9c6a98b7797a4c03a0bbc33a47df8cdeb1c048f7"
-metafile = true
-
-[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "2e42245826ce70d4ad673addb0e5244da388841f1484f03ee5a9426ee33b2229"
 metafile = true
@@ -1801,9 +1812,8 @@ hash = "4e8e53972a6a8ed7ab6ec36b52c4fce51e151e52e8b7f253955443ccceedb050"
 metafile = true
 
 [[files]]
-file = "mods/towers-of-the-wild-modded.pw.toml"
-hash = "ea9c1c64fb83cde57c84eca1a7f60964ab136487c0f1857679cb456ec4d6b49a"
-metafile = true
+file = "mods/totw_modded-neoforge-1.21-1.0.8.jar"
+hash = "a806b3f2c6a90e9918f697d5573ed0370fc5288184818bb3a6d8d2eb799730e6"
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
@@ -1826,18 +1836,16 @@ hash = "33f30b3979f0a2f4a4320a2157d77d2ae7ced9f69c03fd1b8d470269aec688b3"
 metafile = true
 
 [[files]]
+file = "mods/u_desert-2.0.1+mc1.21-1.21.8.jar"
+hash = "13270f6ab0ac32514b4bd5f36cafcb93c9be7202d1d3d81322e932a82da63403"
+
+[[files]]
+file = "mods/u_sea-1.2.3+mc1.19-1.21.8.jar"
+hash = "1d87cccc711c8190973bfc08ec6ab6b5ee24e2c7795acf85ca34e389d474ecf9"
+
+[[files]]
 file = "mods/unbreakables.pw.toml"
 hash = "91cf15b34ea7d25bc2dda7d146600e67a81eb873b31c4b482cfa7ac39dbec7cc"
-metafile = true
-
-[[files]]
-file = "mods/unnamed-desert.pw.toml"
-hash = "72c794ceeab9332993a910633237ed3a8e52dbb5ad2f4a62ba0db4859c6c6f61"
-metafile = true
-
-[[files]]
-file = "mods/unnamed-sea.pw.toml"
-hash = "ac010d3f4f82df324f7b7039f9d387dcd7ff9a0c1e42588aaa4d847ea437b2c8"
 metafile = true
 
 [[files]]
@@ -1905,6 +1913,10 @@ file = "resourcepacks/RedstonePowerLevels_MC1.21.x.zip"
 hash = "338ac5dfc35a2f8c1a2290275b5cb0b13f9ba64fca0b9dcfa8165f656ada326a"
 
 [[files]]
+file = "resourcepacks/SmoothFont_1.21.zip"
+hash = "f55bc6ffda76744c2afad7049b3c733fab22b12ff5a51c1d444211e93b4931da"
+
+[[files]]
 file = "resourcepacks/VanillaTweaks_MC1.21.x.zip"
 hash = "ff53665ef30e335e5ae33e1b9aaa019ddf57c693796855111e3ce3fed0355e04"
 
@@ -1918,9 +1930,8 @@ hash = "c3a6e51cd9610b5ccff4cb037474cabe9e8052338e43abf32ab56ce8c63183c8"
 metafile = true
 
 [[files]]
-file = "resourcepacks/anime-waifu-beds-2.pw.toml"
-hash = "edc092a66e60728f7350e56b975b89029b07d3b038647522e573ea9e7a352ec9"
-metafile = true
+file = "resourcepacks/anime waifu Beds 2 1.21.6.zip"
+hash = "af3e2eceda1dca5a79117ea1eb0dad40b20bb4421c740b119a94938f1fcfed9e"
 
 [[files]]
 file = "resourcepacks/beautiful-enchanted-books.pw.toml"
@@ -1943,9 +1954,8 @@ hash = "4f2f5c3743e1e83a990438ce13d363af70bdef9dcfde01713097892b48181157"
 metafile = true
 
 [[files]]
-file = "resourcepacks/cubic-sun-moon.pw.toml"
-hash = "4818ca9680829dff88147521e6b5438b011c9250b1302613b8f31fa399d01a91"
-metafile = true
+file = "resourcepacks/cubic-sun-moon-v1.8.3a.zip"
+hash = "90ea899fcf8db75fa53b7b14d84d3d477ecfd621bd8a23f227de95ee7cfc85a6"
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
@@ -1965,21 +1975,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/low-shield.pw.toml"
 hash = "c7a1b5a8a0f8a17d91e5488bf91e4722bf7ee93ae54d22a6b514e3cd142b9816"
-metafile = true
-
-[[files]]
-file = "resourcepacks/minecraft-better-zombies.pw.toml"
-hash = "5325a5d47e7b7d940a57302197af1e42214236328429a941b966846e204d2774"
-metafile = true
-
-[[files]]
-file = "resourcepacks/shrimps-immersive-interfaces.pw.toml"
-hash = "6bcf6138d5b1fde9f8982e11c0eeb05755d35b6bf695ccd673a8b62c1a8a0c1c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/smooth-font.pw.toml"
-hash = "5fa00496f9ee594cb56b9ad5a96b8b74ed46757f8615f59acaed9002b46566fe"
 metafile = true
 
 [[files]]
@@ -2076,6 +2071,14 @@ metafile = true
 file = "resourcepacks/water-improved.pw.toml"
 hash = "d699c7a711b11d1390b26715e5197a1d555ec83f4e273870151f5dda7e3635a0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/§3Blue's §fBetter Zombies §7v0.13.zip"
+hash = "df9993f82be27676bcaf6b579be303dfec35818b56f8a5ea4f1bd08d6c9b1808"
+
+[[files]]
+file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
+hash = "35245f697f22eef792cc613dce321d8070e542ea6d7adda1e4be2ed433e73717"
 
 [[files]]
 file = "scripts/start-client.bat"
