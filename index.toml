@@ -1,3 +1,65 @@
 hash-format = "sha256"
 
-# 여기에는 [[files]] 항목들이 추가됨 (packwiz refresh 후 자동 관리)
+[[files]]
+file = "README.md"
+hash = "40032e2797e5b849dedee18fd1bd9097e637df312c8f8ba169f93ee495d72039"
+
+[[files]]
+file = "branding/slowlife.ico"
+hash = "fdef6508e109bf4c36532cb0b21e4589fca495a44e7f8912d098b5e48550f47e"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "9b4c25df12b1006abf82b7f8158984618222a9d0bf6311f38d02165d0901b205"
+
+[[files]]
+file = "launcher/SlowLife.xml"
+hash = "fb3e3b1cc6f3ce809eefddbc8dca3bbabf3936a3dd420ff90d4b360476c557da"
+
+[[files]]
+file = "mods/Xaeros_Minimap_25.2.8_NeoForge_1.21.6.jar"
+hash = "aa4e7f22e4462141081811ba81433ca4c838eb11b518600fb2a9cfeca8f2016f"
+
+[[files]]
+file = "mods/narcissus_farewell-neoforge-1.21.6-1.1.4.jar"
+hash = "105f6062e7f753c8562e3dee6f8378b162de8fee1c6f8d72bbd93f7c016dc9b9"
+
+[[files]]
+file = "mods/yawp-1.21.6-neoforge-0.6.0-beta1.jar"
+hash = "7d799fcabae8428b7953161aa1ed1377028dee945b5d720dd4e1baa28ac82a01"
+
+[[files]]
+file = "resourcepacks/ConcorpWings_MC1.21.x.zip"
+hash = "a1b5fd927b2c323d6aebe9d955fbfb16aebd479e4c8e6ce324a33575331aa295"
+
+[[files]]
+file = "resourcepacks/FullBright_MC1.21.x.zip"
+hash = "59e278f8553301a16b0da3809c162bcbb657a32a7ff2451579f4b29639af2357"
+
+[[files]]
+file = "resourcepacks/MobSpawnIndicator_MC1.21.x.zip"
+hash = "64e61a4300511de0e26c26d74d565e105230e85f75a007477c257ea1aeab04b2"
+
+[[files]]
+file = "resourcepacks/QuietTweaks_MC1.21.x.zip"
+hash = "c480502f57463714683beebb95422d85d7450d68c9c9bd65208fa04c7137535c"
+
+[[files]]
+file = "resourcepacks/RedstonePowerLevels_MC1.21.x.zip"
+hash = "338ac5dfc35a2f8c1a2290275b5cb0b13f9ba64fca0b9dcfa8165f656ada326a"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_MC1.21.x.zip"
+hash = "ff53665ef30e335e5ae33e1b9aaa019ddf57c693796855111e3ce3fed0355e04"
+
+[[files]]
+file = "resourcepacks/VisibleTripwires_MC1.21.x.zip"
+hash = "6745e3629785d33b5b28d5fa4552f2a75bb88197e75a389823d800d1f84789f6"
+
+[[files]]
+file = "scripts/start-client.bat"
+hash = "1ad9ee6a8a6c4199b2b3e0ff56cd4ee533eeca10b185592dc823a96266cddc17"
+
+[[files]]
+file = "scripts/start-server.bat"
+hash = "712e4a615c0a1a474e2c6afc8bf2fa84cee62c535941e0b56845076f221b3d86"
