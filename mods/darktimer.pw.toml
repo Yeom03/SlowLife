@@ -1,0 +1,13 @@
+name = "DarkTimer - RPG Clear Entity Lag"
+filename = "darktimer-neoforge-1.21-1.2.3a.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "22f482fa04de240f2db91d0562c55c6d31794b8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5842969
+project-id = 835940

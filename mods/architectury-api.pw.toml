@@ -1,0 +1,13 @@
+name = "Architectury API"
+filename = "architectury-17.0.6-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aa2f1ddc15212cd30ade786fda2d903037ccdc90"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6673327
+project-id = 419699

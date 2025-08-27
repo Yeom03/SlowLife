@@ -1,0 +1,13 @@
+name = "Explosion Breaks No Block"
+filename = "explosionbreaksnoblock-neoforge-1.21.3-0.3.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "74dc509f41d7ff66de5d2779eb0bd74175abfce4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6751468
+project-id = 1302938

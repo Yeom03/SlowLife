@@ -1,0 +1,13 @@
+name = "Undopia 3D Trial Spawners"
+filename = "Undopia_3D_Trial_Spawners_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "08eb00b969e1557f770305789028766d6048221a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666681
+project-id = 1184440

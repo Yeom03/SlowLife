@@ -1,0 +1,97 @@
+{
+	"mainConfig": true,
+	"inUse": true,
+  	"presetName": "Default Preset",
+	"useOnEntities": {
+		"registryName": [""],
+		"containsName": [""]
+	},
+	"dontUseOnEntities": {
+			"registryName": [""],
+			"containsName": [""]
+	},
+  	"maxDistance": 2000,
+	"positionX":0,
+	"positionY":0,
+	"scaleX":0.5,
+ 	"scaleY":0.5,
+		
+  	"background": {
+		"color":[657930],
+		"transparency":0.5,
+		"positionX":-60,
+		"positionY":10,
+		"sizeX":120,
+		"sizeY":25,
+		"borderRadius":3
+	},
+	
+	"hpBar": {
+		"color":[15223869, 15844367, 3066738],
+		"transparency":0.9,
+		"positionX":-50,
+		"positionY":20,
+		"sizeX":100,
+		"sizeY":12,
+		"borderRadius":0
+	},
+	
+	"lostHpBar": {
+		"color":[14881792, 15223869, 15844367],
+		"transparency":0.5,
+		"startSpeed":40,
+		"decreaseSpeed":1
+	},
+	
+	"nameText": {
+		"addBeforeText":"",
+		"addAfterText":"",
+		"textAlign":"centered",
+		"color":[16777215],
+		"transparency":0.75,
+		"positionX":0,
+		"positionY":12,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"minHpText": {
+		"addBeforeText":"",
+		"addAfterText":" /",
+		"textAlign":"right-to-left",
+		"decimalFormat":"%.1f",
+		"color":[16777215],
+		"transparency":0.75,
+		"positionX":3,
+		"positionY":23,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"maxHpText": {
+		"addBeforeText":" ",
+		"addAfterText":"",
+		"textAlign":"left-to-right",
+		"decimalFormat":"%.1f",
+		"color":[16777215],
+		"transparency":0.75,
+		"positionX":3,
+		"positionY":23,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"hpInPercentText": {
+		"addBeforeText":"(",
+		"addAfterText":"%)",
+		"textAlign":"centered",
+		"decimalFormat":"%.0f",
+		"color":[16777215],
+		"transparency":0.0,
+		"positionX":0,
+		"positionY":0,
+		"scaleX":1.0,
+		"scaleY":1.0
+	}
+}
+

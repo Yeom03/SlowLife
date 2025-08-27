@@ -1,0 +1,13 @@
+name = "Blue's Better Zombies"
+filename = "§3Blue's §fBetter Zombies §7v0.13.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cb46269c18f1990c8dbb532c85f5c9316b3a5672"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6216754
+project-id = 961553

@@ -1,0 +1,13 @@
+name = "TrashSlot"
+filename = "trashslot-neoforge-1.21.6-21.6.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "077f93dab8bc89630081f0d4e3be47d1a23fa680"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6664779
+project-id = 235577

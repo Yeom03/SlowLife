@@ -1,0 +1,13 @@
+name = "BetterF3"
+filename = "BetterF3-15.0.0-NeoForge-1.21.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dd9bb9c3c06aee65e65701e4083416a3268d3064"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6685252
+project-id = 401648

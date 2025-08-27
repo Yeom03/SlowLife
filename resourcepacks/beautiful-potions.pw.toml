@@ -1,0 +1,13 @@
+name = "Beautiful Potions"
+filename = "beautiful_potions_1.21.5_1.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f837db0456d0a8b9cf3289b70394dfd6289fff69"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6557646
+project-id = 1271247

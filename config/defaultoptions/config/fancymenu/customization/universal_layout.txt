@@ -1,0 +1,97 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = %fancymenu:universal_layout%
+  render_custom_elements_behind_vanilla = true
+  last_edited_time = 1756223061757
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  universal_layout_blacklist = pause_screen;
+  [loading_requirement_container_meta:ffb0fc74-0b83-45e7-a773-3ca4da1203d6-1756223041128] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]/config/fancymenu/assets/main.png
+  slide = false
+  repeat_texture = false
+  parallax = false
+  parallax_intensity = 0.02
+  invert_parallax = false
+  instance_identifier = 3173b669-c7df-4068-93d1-7bc7bf7c167d-1756065570794
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+  show_screen_background_overlay_on_custom_background = false
+  apply_vanilla_background_blur = false
+}
+
+layout_action_executable_blocks {
+  open_screen_executable_block_identifier = 2dd8e046-8811-43bf-bce8-1ce71445e380-1756086490983
+  [executable_action_instance:c2017e93-d296-4a1b-8c71-e2c915085337-1756091984519][action_type:set_variable] = bgm:false
+  [executable_block:87f76158-7abd-4acc-ab2e-294441924fb4-1756091918579][type:if] = [executables:c2017e93-d296-4a1b-8c71-e2c915085337-1756091984519;]
+  [if_executable_block_body:87f76158-7abd-4acc-ab2e-294441924fb4-1756091918579] = 36f95a05-3c4b-44d0-8811-b3b8eade0273-1756091838319
+  [loading_requirement_container_meta:36f95a05-3c4b-44d0-8811-b3b8eade0273-1756091838319] = [groups:][instances:adf56943-db81-4ec0-9882-f9edb0e251b5-1756091839879;d3d0bfa5-4c64-4509-937b-a5816bcf589e-1756091904635;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:adf56943-db81-4ec0-9882-f9edb0e251b5-1756091839879] = bgm:true
+  [loading_requirement:fancymenu_loading_requirement_is_world_loaded][requirement_mode:if][req_id:d3d0bfa5-4c64-4509-937b-a5816bcf589e-1756091904635] = 
+  [executable_block:2dd8e046-8811-43bf-bce8-1ce71445e380-1756086490983][type:generic] = [executables:87f76158-7abd-4acc-ab2e-294441924fb4-1756091918579;]
+  close_screen_executable_block_identifier = 1ac84492-5c5b-4eb3-9b39-9b69edd5e647-1756086538053
+  [executable_block:1ac84492-5c5b-4eb3-9b39-9b69edd5e647-1756086538053][type:generic] = [executables:]
+}
+
+element {
+  audio_instance_0 = [source:local]/config/fancymenu/assets/catch_your_dreams.ogg
+  audio_instance_weight_0 = 1.0
+  play_mode = shuffle
+  looping = false
+  volume = 0.03
+  sound_source = master
+  element_type = audio_v2
+  instance_identifier = 51233e7a-b745-434c-91e7-846f1bb69311-1756091694285
+  custom_element_layer_name = bgm
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in_v2 = no_fading
+  fade_in_speed = 1.0
+  fade_out = no_fading
+  fade_out_speed = 1.0
+  base_opacity = 1.0
+  auto_sizing = false
+  auto_sizing_base_screen_width = 1920
+  auto_sizing_base_screen_height = 1083
+  sticky_anchor = false
+  anchor_point = top-left
+  x = 10
+  y = 47
+  width = 35
+  height = 35
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = true
+  element_loading_requirement_container_identifier = c3a9f5a6-528c-4144-949c-c73af333eebc-1756084100958
+  [loading_requirement_container_meta:c3a9f5a6-528c-4144-949c-c73af333eebc-1756084100958] = [groups:][instances:3ee2cf10-680c-4f47-ba38-4872eebbd38e-1756086203367;]
+  [loading_requirement:fancymenu_visibility_requirement_is_variable_value][requirement_mode:if][req_id:3ee2cf10-680c-4f47-ba38-4872eebbd38e-1756086203367] = bgm:true
+  enable_parallax = false
+  parallax_intensity_v2 = 0.5
+  invert_parallax = false
+  animated_offset_x = 0
+  animated_offset_y = 0
+  load_once_per_session = false
+  in_editor_color = #5CA6EFFF
+  layer_hidden_in_editor = false
+}
+

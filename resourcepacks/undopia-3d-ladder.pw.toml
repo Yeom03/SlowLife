@@ -1,0 +1,13 @@
+name = "Undopia 3D Ladder"
+filename = "Undopia_3D_Ladder_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d69e26f8f65eace5f513eb8403f942acac12b617"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666649
+project-id = 1116423

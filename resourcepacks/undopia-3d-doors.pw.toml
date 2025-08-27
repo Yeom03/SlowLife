@@ -1,0 +1,13 @@
+name = "Undopia 3D Doors"
+filename = "Undopia_3D_Doors_1.21.6_v.1.1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2da47827962b773f363a2ab9de85f8591b9bbeb5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666641
+project-id = 1110565

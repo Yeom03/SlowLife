@@ -1,0 +1,13 @@
+name = "AntiXray ((Neo)Forge)"
+filename = "antixray-neoforge-1.4.10+1.21.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "966f9bd15694d93ebc207211c28b234845d0a07c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6663789
+project-id = 560511

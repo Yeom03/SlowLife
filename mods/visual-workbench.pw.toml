@@ -1,0 +1,13 @@
+name = "Visual Workbench"
+filename = "VisualWorkbench-v21.6.0-1.21.6-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e9ee80c5b1c827198700e395538cf89afdb610b0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666769
+project-id = 500273

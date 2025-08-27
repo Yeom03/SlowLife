@@ -1,0 +1,13 @@
+name = "Undopia 3D Chiseled Bookshelf"
+filename = "Undopia_3D_Chiseled_Bookshelf_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc596e10161f8d9996b52539bbac77eea9e27348"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666653
+project-id = 1162747

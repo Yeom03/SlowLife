@@ -1,0 +1,13 @@
+name = "Fish On The Line"
+filename = "fishontheline-1.21.6-3.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a5e381b9d9f578c7f35e6ad5b2c534819f14aa58"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6668846
+project-id = 450603

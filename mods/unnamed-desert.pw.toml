@@ -1,0 +1,13 @@
+name = "Unnamed Desert"
+filename = "u_desert-2.0.1+mc1.21-1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ab98cffc1391b8aba31f232a12aeb0d7be848628"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6894304
+project-id = 960356

@@ -1,0 +1,13 @@
+name = "Undopia Dispenser & Dropper"
+filename = "Undopia_Dispenser_and_Dropper_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6317473b111f1efde22357105620318e10ba57f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666675
+project-id = 1179380

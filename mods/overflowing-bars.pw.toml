@@ -1,0 +1,13 @@
+name = "Overflowing Bars"
+filename = "OverflowingBars-v21.6.0-1.21.6-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0a6c4de24cf4d1d12d4211a167bf6e53627dff03"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6695999
+project-id = 852662

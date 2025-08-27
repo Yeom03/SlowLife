@@ -1,0 +1,13 @@
+name = "Undopia 3D Furnaces"
+filename = "Undopia_3D_Furnaces_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f7a1ef9a25535652a82db928fd78716cc2f6c38a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666655
+project-id = 1171954

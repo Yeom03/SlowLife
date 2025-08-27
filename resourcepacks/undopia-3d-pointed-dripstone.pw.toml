@@ -1,0 +1,13 @@
+name = "Undopia 3D Pointed Dripstone"
+filename = "Undopia_3D_Pointed_Dripstone_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e44a56ab329e614561d2ea564220057458834108"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666642
+project-id = 1116439

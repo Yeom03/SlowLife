@@ -1,0 +1,105 @@
+{
+	"mainConfig": false,
+	"inUse": true,
+  	"presetName": "Preset for neutral mobs",
+	"useOnEntities": {
+		"registryName": [
+			"minecraft:polar_bear",
+			"minecraft:panda",
+			"minecraft:wolf",
+			"minecraft:iron_golem",
+			"minecraft:bee",
+			"minecraft:ender_man"
+		 ],
+		"containsName": ["piglin"]
+	},
+	"dontUseOnEntities": {
+			"registryName": [""],
+			"containsName": [""]
+	},
+  	"maxDistance": 2000,
+	"positionX":0,
+	"positionY":0,
+	"scaleX":0.5,
+ 	"scaleY":0.5,
+		
+  	"background": {
+		"color":[1772571],
+		"transparency":0.75,
+		"positionX":-60,
+		"positionY":10,
+		"sizeX":120,
+		"sizeY":25,
+		"borderRadius":3
+	},
+	
+	"hpBar": {
+		"color":[6757901, 15116069, 16768256],
+		"transparency":0.9,
+		"positionX":-50,
+		"positionY":20,
+		"sizeX":100,
+		"sizeY":12,
+		"borderRadius":0
+	},
+	
+	"lostHpBar": {
+		"color":[3934735, 6757901, 15116069],
+		"transparency":0.5,
+		"startSpeed":40,
+		"decreaseSpeed":1
+	},
+	
+	"nameText": {
+		"addBeforeText":"",
+		"addAfterText":"",
+		"textAlign":"centered",
+		"color":[16777215],
+		"transparency":0.75,
+		"positionX":0,
+		"positionY":12,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"minHpText": {
+		"addBeforeText":"",
+		"addAfterText":" /",
+		"textAlign":"right-to-left",
+		"decimalFormat":"%.1f",
+		"color":[16777215],
+		"transparency":0.9,
+		"positionX":3,
+		"positionY":23,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"maxHpText": {
+		"addBeforeText":" ",
+		"addAfterText":"",
+		"textAlign":"left-to-right",
+		"decimalFormat":"%.1f",
+		"color":[16777215],
+		"transparency":0.9,
+		"positionX":3,
+		"positionY":23,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"hpInPercentText": {
+		"addBeforeText":"(",
+		"addAfterText":"%)",
+		"textAlign":"centered",
+		"decimalFormat":"%.0f",
+		"color":[16777215],
+		"transparency":0.0,
+		"positionX":0,
+		"positionY":0,
+		"scaleX":1.0,
+		"scaleY":1.0
+	}
+}
+
+

@@ -1,0 +1,13 @@
+name = "Undopia 3D Iron Bars"
+filename = "Undopia_3D_Iron_Bars_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5ec3b2c43b72f14a22dc1675da86e381dd280240"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666650
+project-id = 1159169

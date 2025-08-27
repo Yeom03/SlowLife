@@ -1,0 +1,13 @@
+name = "Colourful Containers GUI"
+filename = "§lcolourful containers§8.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "21c853e552feeaac982c4887b97cbf8574af4b6c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6701016
+project-id = 905855

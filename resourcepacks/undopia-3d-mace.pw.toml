@@ -1,0 +1,13 @@
+name = "Undopia 3D Mace"
+filename = "Undopia_3D_Mace_1.21.6_v.1.0.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "199d9291ea687f7117361108d4746c1ec1cee259"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6666638
+project-id = 1058329

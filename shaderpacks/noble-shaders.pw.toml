@@ -1,0 +1,13 @@
+name = "Noble Shaders"
+filename = "Noble v1.8.3.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "15bd91a4315a3fddba21b2f497769866eb268b85"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6774059
+project-id = 759541

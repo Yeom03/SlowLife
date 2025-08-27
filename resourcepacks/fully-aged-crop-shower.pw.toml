@@ -1,0 +1,13 @@
+name = "Fully Aged Crop Shower"
+filename = "Fully Aged Crop Sign.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90900fc5bd4f584e65dbb4156c8a7b34d9c0d15c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6089435
+project-id = 1180056

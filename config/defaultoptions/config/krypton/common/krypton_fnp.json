@@ -1,0 +1,18 @@
+{
+  "General": {
+    "loginVT": true,
+    "textFilterVT": true,
+    "bestVarLong": true,
+    "utilVT": true
+  },
+  "BugFix": {
+    "kryptonIssues128": false,
+    "kryptonIssues128Sync": true
+  },
+  "Compress": {
+    "permitOversizedPackets": false
+  },
+  "Netty": {
+    "allocatorMaxOrder": 9
+  }
+}

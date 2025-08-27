@@ -1,0 +1,13 @@
+name = "Better Modlist"
+filename = "better_modlist-2.0.0-beta.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0ad78558198cc73a18163d347607a43c36718d56"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6676957
+project-id = 1089803

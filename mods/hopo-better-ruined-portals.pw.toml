@@ -1,0 +1,13 @@
+name = "Hopo Better Ruined Portals"
+filename = "HopoBetterRuinedPortals-[1.21.6]-1.4.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8010dd844c3f4808d9c1d47aa7c3a803617f366d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6685968
+project-id = 632624

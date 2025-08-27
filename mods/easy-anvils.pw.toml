@@ -1,0 +1,13 @@
+name = "Easy Anvils"
+filename = "EasyAnvils-v21.6.0-1.21.6-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "563c9d64115b0ccba40421ee34d0cd350b38c0cd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6711470
+project-id = 682567

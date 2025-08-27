@@ -1,0 +1,13 @@
+name = "Water Improved"
+filename = "Water Improved.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dbc5d5a542108bd53f513650f609ab01629f9fdc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6682292
+project-id = 323427

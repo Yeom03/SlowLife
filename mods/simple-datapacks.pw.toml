@@ -1,0 +1,13 @@
+name = "Simple Datapacks"
+filename = "simple_datapacks-neoforge-1.0+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8cb9142cd3a7e59fc48d135c924abd157d87faa6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6879915
+project-id = 1325828

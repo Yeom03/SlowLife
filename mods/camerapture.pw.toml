@@ -1,0 +1,13 @@
+name = "Camerapture"
+filename = "Camerapture-1.10.4+mc1.21.6-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "00bafbf7bb2a52d84cdc46e2f55daaa316380cbd"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6711727
+project-id = 1051342

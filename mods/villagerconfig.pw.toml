@@ -1,0 +1,13 @@
+name = "VillagerConfig"
+filename = "villagerconfig-neoforge-4.4.7+1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "79f9cdb62b3663d34b86920372fde02d46e34318"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6900138
+project-id = 400741

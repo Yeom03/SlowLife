@@ -1,0 +1,13 @@
+name = "Unnamed Sea"
+filename = "u_sea-1.2.3+mc1.19-1.21.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a9992fdfcd24e28f80e307f33f19105ca624cd0b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6792628
+project-id = 1113228

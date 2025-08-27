@@ -1,0 +1,13 @@
+name = "Cubes Without Borders"
+filename = "cwb-neoforge-3.0.0+mc1.21.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a76e6ebd18d32a5cc570f3a91a203bc3e92b9dc3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6381093
+project-id = 975120

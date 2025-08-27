@@ -1,0 +1,13 @@
+name = "Inventive Inventory"
+filename = "inventive_inventory-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d46b4f2af0166d9f5a0693cf90578de4538f6f7c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6803433
+project-id = 1087663

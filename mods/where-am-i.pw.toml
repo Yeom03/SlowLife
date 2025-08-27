@@ -1,0 +1,13 @@
+name = "Where Am I?"
+filename = "whereami-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1be080b8e1a375b43341f2b95db648ee0435f197"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6669080
+project-id = 1247023

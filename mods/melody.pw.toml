@@ -1,0 +1,13 @@
+name = "Melody"
+filename = "melody_neoforge_1.0.12_MC_1.21.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "71f9d2fd372333dcc8d187e20cf2806f2e48c1c5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6668769
+project-id = 938643

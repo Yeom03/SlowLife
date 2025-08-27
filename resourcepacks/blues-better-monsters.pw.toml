@@ -1,0 +1,13 @@
+name = "Blue's Better Monsters"
+filename = "Blue's Better Monsters v0.12.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5483f410dd61429c97245f3853db408bd5b90221"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6119416
+project-id = 1017176

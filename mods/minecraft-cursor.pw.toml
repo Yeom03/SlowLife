@@ -1,0 +1,13 @@
+name = "Minecraft Cursor"
+filename = "minecraft-cursor-neoforge-3.10.0+1.21.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "692cb2fcd8d03a32ecdc614efa05621617e2c687"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6902517
+project-id = 1184736

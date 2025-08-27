@@ -1,0 +1,13 @@
+name = "Resource Config API"
+filename = "resourceconfigapi-neoforge-1.21.7-3.7.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4eadb1402c6171541dc1d8a06f0315263f49017b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6749228
+project-id = 975801

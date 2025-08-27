@@ -1,0 +1,13 @@
+name = "Cubic Sun & Moon"
+filename = "cubic-sun-moon-v1.8.3a.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "90ab004a63f0cd874876db4096aa22d4ddf2dec2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6721454
+project-id = 1241234

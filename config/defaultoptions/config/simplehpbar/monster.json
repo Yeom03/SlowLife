@@ -1,0 +1,119 @@
+{
+	"mainConfig": false,
+	"inUse": true,
+  	"presetName": "Monsters",
+	"useOnEntities": {
+		"registryName": [
+			"minecraft:blaze",
+			"minecraft:bogged",
+			"minecraft:breeze",
+			"minecraft:cave_spider",
+			"minecraft:spider",
+			"minecraft:creeper",
+			"minecraft:creaking",
+			"minecraft:drowned",
+			"minecraft:skeleton",
+			"minecraft:bogged",
+			"minecraft:guardian",
+			"minecraft:elder_guardian",
+			"minecraft:husk",
+			"minecraft:ravager",
+			"minecraft:slime",
+			"minecraft:magma_cube",
+			"minecraft:zombie_villager",
+			"minecraft:stray",
+			"minecraft:vindicator",
+			"minecraft:warden",
+			"minecraft:zombie"
+				 ],
+		"containsName": [""]
+	},
+	"dontUseOnEntities": {
+		"registryName": [""],
+		"containsName": [""]
+	},
+  	"maxDistance": 2000,
+	"positionX":0,
+	"positionY":0,
+	"scaleX":0.5,
+ 	"scaleY":0.5,
+		
+  	"background": {
+		"color":[-1761607680],
+		"transparency":1.0,
+		"positionX":-55,
+		"positionY":8,
+		"sizeX":110,
+		"sizeY":27,
+		"borderRadius":0
+	},
+	
+	"hpBar": {
+		"color":[-65536, -65536, -65536],
+		"transparency":0.501960813999176,
+		"positionX":-50,
+		"positionY":12,
+		"sizeX":100,
+		"sizeY":20,
+		"borderRadius":0
+	},
+	
+	"lostHpBar": {
+		"color":[-2130771968, -2130771968, -2130767872],
+		"transparency":0.501960813999176,
+		"startSpeed":2,
+		"decreaseSpeed":1
+	},
+	
+	"nameText": {
+		"addBeforeText":"",
+		"addAfterText":"",
+		"textAlign":"centered",
+		"color":[-2130706433],
+		"transparency":0.501960813999176,
+		"positionX":0,
+		"positionY":18,
+		"scaleX":0.75,
+		"scaleY":0.75
+	},
+	
+	"minHpText": {
+		"addBeforeText":"",
+		"addAfterText":" /",
+		"textAlign":"right-to-left",
+		"decimalFormat":"%.1f",
+		"color":[16777215],
+		"transparency":0.501960813999176,
+		"positionX":3,
+		"positionY":23,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"maxHpText": {
+		"addBeforeText":" ",
+		"addAfterText":"",
+		"textAlign":"left-to-right",
+		"decimalFormat":"%.1f",
+		"color":[16777215],
+		"transparency":0.501960813999176,
+		"positionX":3,
+		"positionY":23,
+		"scaleX":1.0,
+		"scaleY":1.0
+	},
+	
+	"hpInPercentText": {
+		"addBeforeText":"(",
+		"addAfterText":"%)",
+		"textAlign":"centered",
+		"decimalFormat":"%.0f",
+		"color":[16777215],
+		"transparency":0.0,
+		"positionX":0,
+		"positionY":0,
+		"scaleX":1.0,
+		"scaleY":1.0
+	}
+}
+

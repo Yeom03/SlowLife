@@ -1,0 +1,13 @@
+name = "Leaves Be Gone"
+filename = "LeavesBeGone-v21.6.0-1.21.6-NeoForge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a1831983ec542a99178fe6b2724dc03d1688a8a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6670991
+project-id = 686435
