@@ -5,10 +5,6 @@ file = "README.md"
 hash = "40032e2797e5b849dedee18fd1bd9097e637df312c8f8ba169f93ee495d72039"
 
 [[files]]
-file = "branding/slowlife.ico"
-hash = "fdef6508e109bf4c36532cb0b21e4589fca495a44e7f8912d098b5e48550f47e"
-
-[[files]]
 file = "config/defaultoptions/config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1309,10 +1305,6 @@ file = "config/defaultoptions/options.txt"
 hash = "9b4c25df12b1006abf82b7f8158984618222a9d0bf6311f38d02165d0901b205"
 
 [[files]]
-file = "launcher/SlowLife.xml"
-hash = "fb3e3b1cc6f3ce809eefddbc8dca3bbabf3936a3dd420ff90d4b360476c557da"
-
-[[files]]
 file = "mods/DnT-end-castle-standalone-v1.3.4 [NeoForge].jar"
 hash = "37c82bb4321f0c9cea16bb36f9eaa15ef112cf328d9ad16f989e0430a6a24ba0"
 
@@ -2049,14 +2041,6 @@ hash = "df9993f82be27676bcaf6b579be303dfec35818b56f8a5ea4f1bd08d6c9b1808"
 [[files]]
 file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
 hash = "35245f697f22eef792cc613dce321d8070e542ea6d7adda1e4be2ed433e73717"
-
-[[files]]
-file = "scripts/start-client.bat"
-hash = "1ad9ee6a8a6c4199b2b3e0ff56cd4ee533eeca10b185592dc823a96266cddc17"
-
-[[files]]
-file = "scripts/start-server.bat"
-hash = "712e4a615c0a1a474e2c6afc8bf2fa84cee62c535941e0b56845076f221b3d86"
 
 [[files]]
 file = "shaderpacks/astralex-shader-bsl-edit.pw.toml"
