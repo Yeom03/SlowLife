@@ -1656,6 +1656,10 @@ hash = "a76f466a446e9120a7c263ea7ffc3db63bc9a55fa2c50afd0101376048882cc6"
 metafile = true
 
 [[files]]
+file = "mods/notenoughanimations-neoforge-1.10.1-mc1.21.6.jar"
+hash = "2191593ab4065b8c055d2d775fac5507f4a31d7f2e39665f77e35a166f9b0408"
+
+[[files]]
 file = "mods/nullscape.pw.toml"
 hash = "f473b9e29d96f6b481561f1a8f91bbbe0d43c848a81c39ad10395d33fa83dec4"
 metafile = true
@@ -2036,6 +2040,10 @@ hash = "df9993f82be27676bcaf6b579be303dfec35818b56f8a5ea4f1bd08d6c9b1808"
 [[files]]
 file = "resourcepacks/§6Immersive§8_§6Interfaces§8.zip"
 hash = "35245f697f22eef792cc613dce321d8070e542ea6d7adda1e4be2ed433e73717"
+
+[[files]]
+file = "shaderpacks/Solas Shader V2.9b.zip"
+hash = "ddd5a4e80333a811893946dbfc4ea9285adc60060428b135014726cb7e7efe8c"
 
 [[files]]
 file = "shaderpacks/astralex-shader-bsl-edit.pw.toml"
