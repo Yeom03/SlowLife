@@ -1464,7 +1464,3 @@ metafile = true
 file = "shaderpacks/noble-shaders.pw.toml"
 hash = "d3e4cbd77200f125cb17c803e90673933cc9e4508303dd4c6b1feec0760ae7ca"
 metafile = true
-
-[[files]]
-file = "tmp-index.toml"
-hash = "59e24b0ff1b4efae1a59972d1298ea8c38fc0f01866f7ff3de4793ef47311815"
