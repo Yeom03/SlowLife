@@ -1,12 +1,12 @@
 name = "SlowLife"
 author = "Yeom03"
 version = "1.0.0"
-pack-format = "packwiz:1.1.0"
+pack-format = "packwiz:1.0.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "815dcbefcdccbe2c59f411c008d505334a0246925f1234abf3772b36b8a91530"
+hash = "5ECA260381FBE4D2BFCAD765A614D77A17EC0366A6984697EDA204AA26465F77"
 
 [versions]
 minecraft = "1.21.6"
