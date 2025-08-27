@@ -1,0 +1,7 @@
+# packwiz가 해시로 검증하는 배포 파일들은 줄바꿈 변환 금지
+pack.toml          -text
+index.toml         -text
+mods/**            -text
+resourcepacks/**   -text
+shaderpacks/**     -text
+config/**          -text
