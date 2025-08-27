@@ -2086,6 +2086,10 @@ file = "scripts/start-server.bat"
 hash = "712e4a615c0a1a474e2c6afc8bf2fa84cee62c535941e0b56845076f221b3d86"
 
 [[files]]
+file = "shaderpacks/Solas Shader V2.9b.zip"
+hash = "ddd5a4e80333a811893946dbfc4ea9285adc60060428b135014726cb7e7efe8c"
+
+[[files]]
 file = "shaderpacks/astralex-shader-bsl-edit.pw.toml"
 hash = "ac329a4b5d004ebe2a9a87c19a8cc16ec4cf17810084a169e16803d50d668d0a"
 metafile = true
