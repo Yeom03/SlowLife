@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d505fb45d3e23e725be1a8b0f13da71a3399eb32ec098397fbbc9dc465d096af"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1464,3 +1468,7 @@ metafile = true
 file = "shaderpacks/noble-shaders.pw.toml"
 hash = "d3e4cbd77200f125cb17c803e90673933cc9e4508303dd4c6b1feec0760ae7ca"
 metafile = true
+
+[[files]]
+file = "tmp-index.toml"
+hash = "8eaac9bc2932b35531edc609809e8b6c0d61e54073265de7b9705c8678362119"
