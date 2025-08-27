@@ -12,3 +12,7 @@ Thumbs.db
 
 # packwiz 다운로드 캐시(있다면)
 /.cache/
+
+tmp-index.toml
+
+*.tmp
