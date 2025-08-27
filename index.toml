@@ -1460,33 +1460,8 @@ file = "mods/dnt-desert-temple-overhaul-v2 [NeoForge].jar"
 hash = "442a37fa13a3e2a8793730550269537c4dc80ff9a7e2b6fec17874abbd105bf4"
 
 [[files]]
-file = "mods/dnt-desert-temple-overhaul.pw.toml"
-hash = "f7edae2a06c878376547594d812299cb9071f58c870f8932de092a7eb5c8efc5"
-metafile = true
-
-[[files]]
-file = "mods/dnt-end-castle-standalone.pw.toml"
-hash = "d7f8d491d46694bad1b12e10bb66b10eeb627404d5ce2a630067914d1b80a018"
-metafile = true
-
-[[files]]
 file = "mods/dnt-jungle-temple-overhaul-v2 [NeoForge].jar"
 hash = "dad55b2ae5fab6aab70a88c92c936a63a09131d9a6943456f92ebb237c7bbd8c"
-
-[[files]]
-file = "mods/dnt-jungle-temple-overhaul.pw.toml"
-hash = "c8cf31618f3e0387c01760b2eee09b676d4a02c070c2b8408d80b91e33a4c065"
-metafile = true
-
-[[files]]
-file = "mods/dnt-nether-fortress-overhaul.pw.toml"
-hash = "3f7c2866bc7d3313a8eeb1361a8d38a55662c9fbb373e80352074cf227d43973"
-metafile = true
-
-[[files]]
-file = "mods/dnt-ocean-monument-overhaul.pw.toml"
-hash = "09ea7e085c027e452d2b61b1b5e8bac87f33b7944130e8952b7d3f74719055cc"
-metafile = true
 
 [[files]]
 file = "mods/dnt-pillager-outpost-overhaul.pw.toml"
@@ -1695,11 +1670,6 @@ metafile = true
 [[files]]
 file = "mods/no-animal-tempt-delay.pw.toml"
 hash = "a76f466a446e9120a7c263ea7ffc3db63bc9a55fa2c50afd0101376048882cc6"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-animations.pw.toml"
-hash = "5efe62a133daacde8590902d43acce3a08e9ff276743298488f77f2e8059fde4"
 metafile = true
 
 [[files]]
