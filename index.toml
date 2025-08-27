@@ -1438,11 +1438,6 @@ hash = "a9f571616a6cce9042115bac1d6ab9fc91caa969bc06c3556a9673ecbaafe784"
 metafile = true
 
 [[files]]
-file = "mods/default-options.pw.toml"
-hash = "980b7e0f965306f87de997c5422f910e1926c44b4f095792fb84aa039ece9336"
-metafile = true
-
-[[files]]
 file = "mods/dnt-ancient-city-overhaul.pw.toml"
 hash = "fcc218f5ae5c7e9c79a8ce2f3cac9afab6606c2c0047fd54caf32937c63e5e0c"
 metafile = true
