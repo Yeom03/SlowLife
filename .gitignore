@@ -1,0 +1,14 @@
+# Java / Windows / packwiz 캐시 등
+*.class
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# 빌드/바이너리 산출물은 레포에 커밋하지 말자
+/SlowLife.exe
+/SlowLife.jar
+
+# packwiz 다운로드 캐시(있다면)
+/.cache/
