@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "d505fb45d3e23e725be1a8b0f13da71a3399eb32ec098397fbbc9dc465d096af"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
